@@ -1,0 +1,3 @@
+[submodule "reader/qt-python"]
+	path = reader/qt-python
+	url = https://github.com/l1yefeng/ppeb-qt-python
